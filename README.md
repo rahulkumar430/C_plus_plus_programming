@@ -1,2 +1,2 @@
-# Cplusplus_programming
+# C++_programming
 Coding used to learn c++ along with numerous competitive coding examples !
